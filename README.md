@@ -1,7 +1,5 @@
 # meshviewer
 
-# meshviewer
-
 ## Install
 
 pyqt 5.15.4
