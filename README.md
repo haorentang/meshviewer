@@ -1,5 +1,7 @@
 # meshviewer
 
+Author: Tianyi Tang
+
 ## Install
 
 pyqt 5.15.4
